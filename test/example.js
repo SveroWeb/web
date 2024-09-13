@@ -11,6 +11,7 @@ var tiles = sign.length;
 var subTotal = tiles * 5;
 var shipping = 27;
 var grandTotal = subTotal + shipping;
+let newVariable = 'naujas';
 
 // Get the element that has an id of greeting
 var el = document.getElementById('greeting');
